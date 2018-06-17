@@ -17,8 +17,13 @@ body {
 	padding: 0 45px 20px;
 }
 
-h1, h2 {
+
+/* Write all remaining styles here */
+
+h1 {
   color: #a0afaa;
 }
 
-/* Write all remaining styles here */
+h2 {
+  color: #757f7e;
+}
