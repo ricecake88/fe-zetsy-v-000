@@ -28,9 +28,9 @@ h2 {
   color: #757f7e;
 }
 
-img a {
+a:link img {
   border: #d0cfcd;
 }
-img a:hover {
+a:hover img {
   border: #707e79;
 }
