@@ -28,10 +28,10 @@ h2 {
   color: #757f7e;
 }
 
-.pressImage {
+.imageLink {
   background-color: #cbcbcb;
 }
-.pressImage:hover {
+.imageLink:hover {
   color: #707e79;
   background-color: #707e79;
 }
