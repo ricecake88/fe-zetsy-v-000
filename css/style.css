@@ -30,6 +30,7 @@ h2 {
 
 .imageLink {
   background-color: #cbcbcb;
+  margin:2px;
 }
 .imageLink:hover {
   color: #707e79;
