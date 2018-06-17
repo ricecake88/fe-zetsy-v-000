@@ -29,5 +29,8 @@ h2 {
 }
 
 img a {
-  border: ;
+  border: #d0cfcd;
+}
+img a:hover {
+  border:;
 }
