@@ -29,14 +29,15 @@ h2 {
 }
 
 img {
-  border: 10px black;
+  border: 10px;
 }
 
+/*
 .imageLink {
   background-color: #cbcbcb;
 }
 
 .imageLink:hover {
-  /*color: #707e79;*/
+  /*color: #707e79;*//*
   background-color: #707e79;
-}
+}*/
