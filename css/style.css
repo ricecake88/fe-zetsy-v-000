@@ -28,6 +28,10 @@ h2 {
   color: #757f7e;
 }
 
+img {
+  border: 1px;
+}
+
 .imageLink {
   background-color: #cbcbcb;
 }
