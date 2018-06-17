@@ -28,7 +28,7 @@ h2 {
   color: #757f7e;
 }
 
-pressImage:hover {
+.pressImage:hover {
   color: #707e79;
   border: #707e79;
 }
