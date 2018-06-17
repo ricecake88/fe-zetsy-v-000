@@ -31,7 +31,7 @@ h2 {
 .pressImage {
   background-color: #cbcbcb;
 }
-.pressImage.hover {
+.pressImage:hover {
   color: #707e79;
   background-color: #707e79;
 }
