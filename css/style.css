@@ -8,7 +8,7 @@ src: url('/Baskerville.ttf');
 
 /*////////// Global Styles //////////*/
 
-body {
+body, html {
 	background: #F3EBE9;
 	font-size: 100%;
 	font-family: 'Times New Roman', serif;
