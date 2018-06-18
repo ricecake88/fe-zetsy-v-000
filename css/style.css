@@ -56,7 +56,7 @@ img {
 }
 
 footer {
-  display: right;
+  text-align: right;
 }
 /*
 .imageLink {
