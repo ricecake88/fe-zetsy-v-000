@@ -43,6 +43,7 @@ h2 {
 
 img {
   border: 10px;
+  padding: 5px;
 }
 
 .clearfix:after {
