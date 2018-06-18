@@ -46,6 +46,9 @@ img {
   border: 10px;
 }
 
+footer {
+  height: 100%;
+}
 /*
 .imageLink {
   background-color: #cbcbcb;
