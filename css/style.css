@@ -27,7 +27,7 @@ body, html {
 /* Write all remaining styles here */
 header {
   display: block;
-  background: gray;
+  /*background: gray;*/
 }
 
 h1 {
