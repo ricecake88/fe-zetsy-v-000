@@ -25,6 +25,8 @@ body {
 /* Write all remaining styles here */
 header {
   margin: 0 auto;
+  display: block;
+  top: 0px;
 }
 
 h1 {
