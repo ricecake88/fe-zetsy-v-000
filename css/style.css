@@ -46,7 +46,7 @@ img {
   border: 10px;
 }
 
-.clearfix {
+.clearfix:after {
   content :".";
   display: block;
   clear: both;
