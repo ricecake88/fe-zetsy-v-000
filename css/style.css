@@ -46,8 +46,7 @@ h2 {
 }
 
 .imageLink {
-  padding: 2px;
-  background-color: #cbcbcb;
+  border: 5px solid #cbcbcb;
 }
 
 .imageLink:hover {
