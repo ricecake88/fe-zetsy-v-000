@@ -46,9 +46,15 @@ img {
   border: 10px;
 }
 
-footer {
-  height: 100%;
+.clearfix {
+  content :".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
+
 /*
 .imageLink {
   background-color: #cbcbcb;
