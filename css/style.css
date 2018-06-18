@@ -28,7 +28,6 @@ body, html {
 /* Write all remaining styles here */
 header {
   display: block;
-  top: 0px;
   background: gray;
 }
 
