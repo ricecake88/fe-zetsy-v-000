@@ -19,7 +19,9 @@ body {
 
 
 /* Write all remaining styles here */
-
+header {
+  border: 0px 0;
+}
 h1 {
   color: #a0afaa;
 }
