@@ -50,8 +50,7 @@ h2 {
 }
 
 #press img:hover {
-  /*color: #707e79;*//*
-  background-color: #707e79;
+  border: 5px solid #707e79;
 }
 
 .clearfix:after {
