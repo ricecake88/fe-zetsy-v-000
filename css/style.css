@@ -45,6 +45,15 @@ img {
   border: 5px solid #a0afaa;
 }
 
+.imageLink {
+  background-color: #cbcbcb;
+}
+
+.imageLink:hover {
+  /*color: #707e79;*//*
+  background-color: #707e79;
+}
+
 .clearfix:after {
   content :".";
   display: block;
@@ -58,12 +67,3 @@ footer {
   text-align: right;
   font-size: 12px;
 }
-/*
-.imageLink {
-  background-color: #cbcbcb;
-}
-
-.imageLink:hover {
-  /*color: #707e79;*//*
-  background-color: #707e79;
-}*/
